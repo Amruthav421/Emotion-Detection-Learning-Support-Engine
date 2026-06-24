@@ -1,0 +1,1 @@
+The database consists of two primary entities, Users and Emotion_Records, linked through a one-to-many relationship. It stores user information, emotion analysis results, confidence scores, AI-generated responses, and interaction history, enabling efficient tracking, analytics, and secure data management.
