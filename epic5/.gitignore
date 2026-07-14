@@ -1,4 +1,5 @@
 venv/
 *.keras
 *.safetensors
-__pycache__/**
+__pycache__/
+*.pkl
