@@ -1,0 +1,4 @@
+Timestamp,Input Text,Detected Emotion,Confidence Score
+2026-07-04 23:37:46,The code threw an unexpected exception during execution,Frustrated,0.8842
+2026-07-04 23:37:46,I clearly understand how this function optimization operates,Confident,0.9415
+2026-07-04 23:37:46,Let's look into the dataset formatting documentation,Curious,0.7630

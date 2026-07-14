@@ -1,0 +1,13 @@
+{
+    "architectures": [
+        "BertForSequenceClassification"
+    ],
+    "id2label": {
+        "0": "Bored",
+        "1": "Confident",
+        "2": "Confused",
+        "3": "Curious",
+        "4": "Frustrated"
+    },
+    "num_labels": 5
+}
