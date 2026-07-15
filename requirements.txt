@@ -1,12 +1,13 @@
 streamlit
 opencv-python-headless
-numpy>=2.0.0
+numpy==1.26.4
 pillow
 pandas
-tensorflow-cpu>=2.18.0
+tensorflow-cpu==2.15.0
+keras==2.15.0
 torch
 transformers
 nltk
 plotly
-python-dotenv
 google-generativeai
+python-dotenv
