@@ -4,5 +4,9 @@ numpy==1.26.4
 pillow
 pandas
 tensorflow==2.15.0
+torch
+transformers
+scikit-learn
 plotly
 google-generativeai
+python-dotenv
