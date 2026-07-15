@@ -1,9 +1,9 @@
 streamlit
 opencv-python-headless
-numpy
+numpy==1.26.4
 pillow
 pandas
-tensorflow
+tensorflow==2.15.0
 torch
 transformers
 scikit-learn
